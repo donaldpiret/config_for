@@ -6,6 +6,6 @@ if defined?(::Rails)
   require 'config_for/integrations/rails'
 end
 
-if defined?(::Capistrano)
-  require 'config_for/capistrano'
-end
+# if defined?(::Capistrano)
+#   require 'config_for/capistrano'
+# end
