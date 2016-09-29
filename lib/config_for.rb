@@ -7,7 +7,7 @@ module ConfigFor
 
   autoload :Rails, 'config_for/rails'
   autoload :Sinatra, 'config_for/sinatra'
-  autoload :Capistrano, 'config_for/capistrano'
+  # autoload :Capistrano, 'config_for/capistrano'
 
   autoload :Config, 'config_for/config'
 
